@@ -70,16 +70,16 @@
 - [ ] 宋永毅主编《毛泽东遗产与当代中国——文革50周年论文集》
 - [x] 启之：《中华学人文革论文集》**差第二、四卷**
 - [x] 金大陆，《非常与正常：上海“文革”时期的社会生活》
-- [ ] 夏尔贝特兰，《中国的文化大革命与工业组织》
-- [ ] 赵园，《非常年代: 1964-1978》
-- [ ] 李振盛，《红色新闻兵》
-- [ ] 苏阳，《文革时期中国农村的集体杀戮》
-- [ ] 宋永毅，《文革大屠杀》
-- [ ] 魏昂德，《脱轨的革命》
-- [ ] 魏昂德，《Agents of Disorder Inside China’s Cultural Revolution》
-- [ ] 魏昂德，《Fractured Rebellion: The Beijing Red Guard Movement》
-- [ ] 魏昂德，《A Decade of Upheaval The Cultural Revolution in Rural China》
-- [ ] 文浩，《A Social History of Maoist China Conflict and Change》
+- [x] 夏尔贝特兰，《中国的文化大革命与工业组织》
+- [x] 赵园，《非常年代——1964-1978》
+- [x] 李振盛，《红色新闻兵——一个摄影记者密藏底片中的文化大革命》
+- [x] 苏阳，《文革时期中国农村的集体杀戮》
+- [x] 宋永毅，《文革大屠杀》
+- [x] 魏昂德，《脱轨的革命——毛泽东时代的中国》
+- [ ] 魏昂德，《Agents of Disorder Inside China’s Cultural Revolution》（《中国文化大革命中的混乱因素》）
+- [x] 魏昂德，《Fractured Rebellion: The Beijing Red Guard Movement》（《分裂的造反——北京红卫兵运动》）
+- [x] 魏昂德，《A Decade of Upheaval The Cultural Revolution in Rural China》（《动荡的十年——中国农村的文化大革命》）
+- [x] 文浩，《A Social History of Maoist China Conflict and Change》（《毛主义中国矛盾与变革的社会史》）
 - [ ] 陈焕仁，《红卫兵日记》
 
 ## 回忆录&传记
