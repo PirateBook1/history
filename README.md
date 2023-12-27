@@ -1,6 +1,7 @@
 # history
 文革史书单书籍存放库
 
+[文革史书单（2023.9.22）](https://fork-soprano-e9c.notion.site/2023-9-22-65e138e6a8dd417fa62c33618d7090af)  
 [和谐历史档案馆](https://github.com/banned-historical-archives/banned-historical-archives.github.io)
 
 ## 前史和通史：
