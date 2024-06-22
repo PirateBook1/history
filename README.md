@@ -50,7 +50,7 @@
 ### 贵州：
 - [x] 邓振新，《贵州风云》
 ### 广西：
-- [ ] 宋永毅主编，《广西文革机密档案资料》**[中国文化大革命文库第三版](https://github.com/banned-historical-archives/banned-historical-archives.github.io)已经包含36卷。续卷10卷暂时缺失。**
+- [x] 宋永毅主编，《广西文革机密档案资料》**[中国文化大革命文库第三版](https://github.com/banned-historical-archives/banned-historical-archives.github.io)已经包含36卷。续卷10卷暂时缺失。**
 - [x] 张雄飞，《桂林老多四十四周年祭》
 - [x] 郑义，《红色纪念碑》
 - [x] 晓明，《广西文革痛史勾陈》
