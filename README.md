@@ -78,7 +78,7 @@
 - [x] 周伦佐，《“文革”造反派真相》
 - [x] 童小溪，《极端年代的公民政治——群众的文化大革命史》
 - [x] 乔晞华，《文革群众运动的动员、分裂与灭亡——以社会运动学视角》
-- [ ] 乔晞华，《既非一个文革，也非两个文革——南外红卫兵打死工人王金事件个案分析》
+- [x] 乔晞华，《既非一个文革，也非两个文革——南外红卫兵打死工人王金事件个案分析》
 - [x] 阿妮达·陈，《毛主席的孩子们──红卫兵一代的成长与经历》
 - [x] 彭丽君，《复制的艺术——文革期间的文化生产及实践》
 - [x] 王家平，《文化大革命时期诗歌研究》
@@ -100,17 +100,16 @@
 - [x] 苏阳，《文革时期中国农村的集体杀戮》
 - [x] 宋永毅，《文革大屠杀》
 - [x] 魏昂德，《脱轨的革命——毛泽东时代的中国》
-- [ ] 魏昂德，《Agents of Disorder Inside China’s Cultural Revolution》（《中国文化大革命中的混乱因素》）
+- [x] 魏昂德，《Agents of Disorder Inside China’s Cultural Revolution》（《中国文化大革命中的混乱因素》）
 - [x] 魏昂德，《Fractured Rebellion: The Beijing Red Guard Movement》（《分裂的造反——北京红卫兵运动》）
 - [x] 魏昂德，《A Decade of Upheaval The Cultural Revolution in Rural China》（《动荡的十年——中国农村的文化大革命》）
-- [ ] 魏昂德，《 Civil War in Guangxi The Cultural Revolution on Chinas Southern
-Periphery》
+- [x] 魏昂德，《Civil War in Guangxi The Cultural Revolution on Chinas Southern Periphery》（《广西的内战：中国南方的文化大革命》）
 - [x] 文浩，《A Social History of Maoist China Conflict and Change》（《毛主义中国矛盾与变革的社会史》）
-- [ ] 陈焕仁，《红卫兵日记》
-- [ ] Paul Clark，《The Chinese Cultural Revolution A History》
-- [ ] 蒋洪生，《The Paris Commune in Shanghai: the Masses, the State, and Dynamics of “Continuous Revolution”》
-- [ ] 余汝信，《风暴历程》
-- [ ] 唐炎明 唐亚明，《毛主席语录的诞生及其他：唐平铸文革实录》
+- [x] 陈焕仁，《红卫兵日记》
+- [x] Paul Clark，《The Chinese Cultural Revolution A History》（《中国“文化”革命史》）
+- [x] 蒋洪生，《The Paris Commune in Shanghai: the Masses, the State, and Dynamics of “Continuous Revolution”》
+- [x] 余汝信，《风暴历程》
+- [x] 唐炎明 唐亚明，《毛主席语录的诞生及其他：唐平铸文革实录》
 - [ ] 刘青峰主编，《文化大革命 史实与研究》
 - [ ] 白承旭，《文革的政治与困境：陈伯达与「造反」的时代》
 - [ ] 章奇 刘明兴，《权力结构、政治激励和经济增长：基于浙江民营经济发展经验的政治经济学分析》
