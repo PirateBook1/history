@@ -107,13 +107,13 @@
 - [x] 文浩，《A Social History of Maoist China Conflict and Change》（《毛主义中国矛盾与变革的社会史》）
 - [x] 陈焕仁，《红卫兵日记》
 - [x] Paul Clark，《The Chinese Cultural Revolution A History》（《中国“文化”革命史》）
-- [x] 蒋洪生，《The Paris Commune in Shanghai: the Masses, the State, and Dynamics of “Continuous Revolution”》
+- [x] 蒋洪生，《The Paris Commune in Shanghai: the Masses, the State, and Dynamics of "Continuous Revolution"》（《巴黎公社在上海：群众，国家，继续革命的动力》）
 - [x] 余汝信，《风暴历程》
 - [x] 唐炎明 唐亚明，《毛主席语录的诞生及其他：唐平铸文革实录》
-- [ ] 刘青峰主编，《文化大革命 史实与研究》
-- [ ] 白承旭，《文革的政治与困境：陈伯达与「造反」的时代》
-- [ ] 章奇 刘明兴，《权力结构、政治激励和经济增长：基于浙江民营经济发展经验的政治经济学分析》
-- [ ] 王文耀 王保春，《文革前后时期的陈伯达秘书的证言》
+- [x] 刘青峰主编，《文化大革命 史实与研究》
+- [x] 白承旭，《文革的政治与困境：陈伯达与「造反」的时代》
+- [x] 章奇 刘明兴，《权力结构、政治激励和经济增长：基于浙江民营经济发展经验的政治经济学分析》
+- [x] 王文耀 王保春，《文革前后时期的陈伯达秘书的证言》
 - [ ] 乔晞华，《上山下乡与大返城》
 - [ ] 启之，《文革电影（1966-1976）: 一个制度与观念的历史》
 - [ ] 阎长贵 王广宇，《钓鱼台忆往 江青随员的证言》
